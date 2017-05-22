@@ -1,0 +1,5 @@
+Hi,
+I've recently uploaded a game to Google Play Store.
+The game has a cartoon style, some simple sound effects and the only permission it needs is for the admob ads.
+But for some reason after a few days that my app is listed in the store my game's content rating was changed to "Low Maturity" and I've no idea why. I read the guidelines in "Rate your application content page" and my app doesn't violate any of the subjects there. Despite that it's content rating is "Low maturity".
+I would be glad to understand the issue.

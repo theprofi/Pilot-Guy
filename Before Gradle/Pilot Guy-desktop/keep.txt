@@ -1,0 +1,31 @@
+In level1
+	/*
+	 * What to do:
+	 * When calculating the ratio take a little bit lower dimensions because it can be wrong by a pixel.
+	 * And it looks like one border is missing.
+	 * 
+	 * Scan for each level the smallest image possible that includes the borders.
+	 * Calculate where to put it then decrease from the number the initial coords like here 3350 and 1399.
+	 * 
+	 * Transform helis pos to ones adequate for the toScan image but before comparing decrease x and y ToCen
+	 * Maybe make a new image of the fence with smaller ones.
+	 */
+	 
+	 		Rectangle topCol = new Rectangle();
+		Rectangle midCol = new Rectangle();
+		Rectangle botCol = new Rectangle();
+		
+		topCol.x = TransedX + 2;
+		topCol.y = TransedY + 18;
+		topCol.width = 70;
+		topCol.height = 11;
+		
+		midCol.x = TransedX + 6;
+		midCol.y = TransedY + 7;
+		midCol.width = 62;
+		midCol.height = 10;
+		
+		botCol.x = TransedX + 11;
+		botCol.y = TransedY;
+		botCol.width = 52;
+		botCol.height = 6;

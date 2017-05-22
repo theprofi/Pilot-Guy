@@ -1,0 +1,39 @@
+E:\Misc\Knowledge\Programming\Projects\No future\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.exe.config
+E:\Misc\Knowledge\Programming\Projects\No future\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.exe
+E:\Misc\Knowledge\Programming\Projects\No future\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.pdb
+E:\Misc\Knowledge\Programming\Projects\No future\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.csprojResolveAssemblyReference.cache
+E:\Misc\Knowledge\Programming\Projects\No future\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.Form1.resources
+E:\Misc\Knowledge\Programming\Projects\No future\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.Properties.Resources.resources
+E:\Misc\Knowledge\Programming\Projects\No future\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.csproj.GenerateResource.Cache
+E:\Misc\Knowledge\Programming\Projects\No future\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.exe
+E:\Misc\Knowledge\Programming\Projects\No future\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.pdb
+E:\Knowledge\Programming (no web related languages)\Projects\Examples\C#\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.exe.config
+E:\Knowledge\Programming (no web related languages)\Projects\Examples\C#\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.exe
+E:\Knowledge\Programming (no web related languages)\Projects\Examples\C#\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.pdb
+E:\Knowledge\Programming (no web related languages)\Projects\Examples\C#\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.exe
+E:\Knowledge\Programming (no web related languages)\Projects\Examples\C#\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.pdb
+E:\Knowledge\Programming (no web related languages)\Projects\Examples\C#\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.csprojResolveAssemblyReference.cache
+E:\Knowledge\Programming (no web related languages)\Projects\Examples\C#\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.Form1.resources
+E:\Knowledge\Programming (no web related languages)\Projects\Examples\C#\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.Properties.Resources.resources
+E:\Knowledge\Programming (no web related languages)\Projects\Examples\C#\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.csproj.GenerateResource.Cache
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.exe.config
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.exe
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.pdb
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.exe
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.pdb
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.csprojResolveAssemblyReference.cache
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.Form1.resources
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.Properties.Resources.resources
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\Image pixels` color (very fast method)\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.csproj.GenerateResource.Cache
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.exe.config
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.exe
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.pdb
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.exe
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.pdb
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.csprojResolveAssemblyReference.cache
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.Form1.resources
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.Properties.Resources.resources
+E:\Knowledge\Programming\Projects\In development\Pilot Guy New\Graphics and customs\Levels\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.csproj.GenerateResource.Cache
+E:\Knowledge\Programming\Projects\Finished\Games\Pilot Guy -  First android and PC game\Graphics and customs\Levels\GetPixelColor\GetPixelColor\bin\Debug\GetPixelColor.exe.config
+E:\Knowledge\Programming\Projects\Finished\Games\Pilot Guy -  First android and PC game\Graphics and customs\Levels\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.exe
+E:\Knowledge\Programming\Projects\Finished\Games\Pilot Guy -  First android and PC game\Graphics and customs\Levels\GetPixelColor\GetPixelColor\obj\Debug\GetPixelColor.pdb
