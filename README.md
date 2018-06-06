@@ -4,5 +4,5 @@ After all the game works fine except for some bugs here and there and you can se
 <br>
 I used LibGDX framework as game development platform.
 <h3>Play</h3>
-You can download it from the Google Play Store:
+You can download it from the Google Play Store:<br>
 <a href="https://play.google.com/store/apps/details?id=com.elkadakh.pilotguy.android">https://play.google.com/store/apps/details?id=com.elkadakh.pilotguy.android</a>
