@@ -3,6 +3,6 @@ This is my first ever "serious" program, even before I started my BSc. <br>Under
 After all the game works fine except for some bugs here and there and you can see by playing the game the effort that I put in. 
 <br>
 I used LibGDX framework as game development platform.
-<h3>Play</h3>
-You can download it from the Google Play Store:<br>
-<a href="https://play.google.com/store/apps/details?id=com.elkadakh.pilotguy.android">https://play.google.com/store/apps/details?id=com.elkadakh.pilotguy.android</a>
+<h3>Demo</h3>
+You can watch demo gameplay here:
+https://www.youtube.com/watch?v=e3AB3QlC3do
